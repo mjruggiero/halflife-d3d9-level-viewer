@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HLViewer", "HLViewer.vcxproj", "{E175F882-8114-415E-85EE-2C553E608312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E175F882-8114-415E-85EE-2C553E608312}.Debug|x86.ActiveCfg = Debug|Win32
+		{E175F882-8114-415E-85EE-2C553E608312}.Debug|x86.Build.0 = Debug|Win32
+		{E175F882-8114-415E-85EE-2C553E608312}.Release|x86.ActiveCfg = Release|Win32
+		{E175F882-8114-415E-85EE-2C553E608312}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2C8F8AD-007F-49C9-BD72-0A7B2CF8A7A3}
+	EndGlobalSection
+EndGlobal
