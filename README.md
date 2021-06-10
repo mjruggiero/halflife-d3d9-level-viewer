@@ -11,8 +11,15 @@ It includes the following features:
 - Lightmaps
 
 This will compile with Visual Studio 2019.
-You first need to install the DX9 SDK (June 2010).
+
+You first need to install the DirectX9 SDK (June 2010).
+
+You need to own a copy of Half-Life in order to use this viewer.
+
 In order to change the levels, modify the config.txt file.
+
 The first line should point to the halflife.wad file.
+
 The second line is not used.
+
 The third line should points the the map (.bsp) file you want to view.
